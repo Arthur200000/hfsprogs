@@ -20,3 +20,5 @@ TODOs
 ----
 - [ ] Delete useless things to minimize tarball size.
 - [ ] Create build scripts for ArchLinux, AOSC OSes and Generic Systems.
+- [ ] Rebase to a newer version, apply patches, distribute minimized&patched tarballs. (Use diff to create patches for those who already downloaded Apple's version.)
+- [ ] Test if it compiles on other *nix systems. I hope there is no GCC(gcc can't compile).
